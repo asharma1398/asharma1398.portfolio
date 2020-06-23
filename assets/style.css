@@ -13,3 +13,12 @@ main {
 .icon {
     font-size: 30px;
 }
+
+.main {
+    padding: 60px;
+    font-size: 18px;
+}
+
+.port {
+    padding: 10px;
+}
