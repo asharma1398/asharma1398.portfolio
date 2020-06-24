@@ -22,3 +22,13 @@ main {
 .port {
     padding: 10px;
 }
+
+.contact {
+    display: flex;
+    align-items: center;
+}
+
+.contactTitle {
+    color: rgb(108, 108, 108);
+    font-size: 25px;
+}
