@@ -1,6 +1,6 @@
 # My Portfolio 
 
-[Deployed Application](https://asharma1398.github.io/index.html)
+[Deployed Application](https://asharma1398.github.io/asharma1398.portfolio/)
 <br>
 [My GitHub](https://github.com/asharma1398)
 
